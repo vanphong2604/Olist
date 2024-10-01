@@ -1,6 +1,4 @@
 # **Olist-E-commerce-Data-Analysis**
-![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/b57e7bae-89a7-4b4f-84cc-449cbd1912e3)
---
 
 ## **INTRODUCTION**
 Olist is a Brazilian e-commerce platform that connects small and medium-sized businesses to customers across Brazil. The platform operates as a marketplace, where merchants can list their products and services and customers can browse and purchase them online. The Olist sales dataset is a collection of anonymized data about orders placed on the Olist from September 2016 to September 2018.
@@ -11,9 +9,9 @@ Olist is a Brazilian e-commerce platform that connects small and medium-sized bu
 - Research the domain of the e-commerce market
 - Formulate business questions related to Olist e-commerce data that align with current market trends.
 - Exploration, Insight generation and Visualization of E-commerce sales data
-+ Olist Data Analysis.ipynb - the file that contains the exploratory data analysis using Python
-+ Olist Analysis Dashboad.pdf - the file that contains the tableau vizualization
-+ Olist Data Analysis.sql - the file that contains SQL queries for data extraction and analysis from the Olist dataset
+- - Olist Data Analysis.ipynb - the file that contains the exploratory data analysis using Python
+- - Olist Analysis Dashboad.pdf - the file that contains the tableau vizualization
+- - Olist Data Analysis.sql - the file that contains SQL queries for data extraction and analysis from the Olist dataset
 - Offer recommendations to Olist company
 
 ## **DATASET AND DATA DICTIONARY**
