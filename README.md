@@ -9,9 +9,9 @@ Olist is a Brazilian e-commerce platform that connects small and medium-sized bu
 - Research the domain of the e-commerce market
 - Formulate business questions related to Olist e-commerce data that align with current market trends.
 - Exploration, Insight generation and Visualization of E-commerce sales data
-- - Olist Data Analysis.ipynb - the file that contains the exploratory data analysis using Python
-- - Olist Analysis Dashboad.pdf - the file that contains the tableau vizualization
-- - Olist Data Analysis.sql - the file that contains SQL queries for data extraction and analysis from the Olist dataset
+    - Olist Data Analysis.ipynb - the file that contains the exploratory data analysis using Python
+    - Olist Analysis Dashboad.pdf - the file that contains the tableau vizualization
+    - Olist Data Analysis.sql - the file that contains SQL queries for data extraction and analysis from the Olist dataset
 - Offer recommendations to Olist company
 
 ## **DATASET AND DATA DICTIONARY**
